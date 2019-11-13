@@ -1,0 +1,22 @@
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.csprojAssemblyReference.cache
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.AssemblyInfoInputs.cache
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.AssemblyInfo.cs
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.exe
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.deps.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.runtimeconfig.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.runtimeconfig.dev.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.dll
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.pdb
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.dll
+E:\Cristhian\Uleam Tercer Semestre\POO\Proyectos\Deber3\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.pdb
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.exe
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.deps.json
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.runtimeconfig.json
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.runtimeconfig.dev.json
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.dll
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\bin\Debug\netcoreapp3.0\FacturaEmpresa3.pdb
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.csprojAssemblyReference.cache
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.AssemblyInfo.cs
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.dll
+C:\Users\diego\Documents\FacturaEmpresa3\FacturaEmpresa3\obj\Debug\netcoreapp3.0\FacturaEmpresa3.pdb
